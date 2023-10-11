@@ -1,0 +1,16 @@
+
+Machine Learning Introduction
+Supervised & Unsupervised Learning
+Features & Labels
+Decision Tree
+Naïve Bayes
+Gradient Descent
+Linear Regression
+Logistic Regression
+SVM
+Kernel Methods
+Neural Networks
+Clustering
+K-means Clustering Game
+Machine Learning Course Summary
+Machine Learning Final Assessment
